@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70892c2d-3c50-47ea-a109-c12e90917194" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ACM-ICPC-Algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACM-ICPC-Algorithms" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeSort.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ACM-ICPC-Algorithms/Sorting/Merge Sort/Kotlin/MergeSort.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,6 +93,15 @@
               <item name="ACM-ICPC-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Sorting" type="462c0819:PsiDirectoryNode" />
               <item name="Merge Sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberFest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberFest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ACM-ICPC-Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="Merge Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,12 +202,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538771312447</updated>
       <workItem from="1538771313860" duration="1835000" />
-      <workItem from="1540655195247" duration="1432000" />
+      <workItem from="1540655195247" duration="1677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3267000" />
+    <option name="totallyTimeSpent" value="3512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -222,7 +222,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32246998" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34991422" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44082332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
