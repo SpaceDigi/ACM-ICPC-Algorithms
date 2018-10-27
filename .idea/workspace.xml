@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70892c2d-3c50-47ea-a109-c12e90917194" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HacktoberFest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HacktoberFest/JavaLinearSearch1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Ada/Merge_Sort.adb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Ada/Merge_Sort.adb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/C++/Count_Inversions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/C++/Count_Inversions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/C++/Merge_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/C++/Merge_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Haskell/Merge_Sort.hs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Haskell/Merge_Sort.hs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Java/Merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Java/Merge_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/JavaScript/Merge_Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/JavaScript/Merge_Sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Kotlin/MergeSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Kotlin/MergeSort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Python/Merge_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Python/Merge_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Ruby/Merge_Sort.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Ruby/Merge_Sort.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Scala/Merge_Sort.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Scala/Merge_Sort.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Merge Sort/Swift/Merge_Sort.swift" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort/Swift/Merge_Sort.swift" afterDir="false" />
-    </list>
+    <list default="true" id="70892c2d-3c50-47ea-a109-c12e90917194" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,6 +35,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="matthewsamuel95" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="ACM-ICPC-Algorithms" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -219,12 +193,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538771312447</updated>
       <workItem from="1538771313860" duration="1835000" />
-      <workItem from="1540655195247" duration="691000" />
+      <workItem from="1540655195247" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2526000" />
+    <option name="totallyTimeSpent" value="2903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,7 +213,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32246998" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.432247" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4271012" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
