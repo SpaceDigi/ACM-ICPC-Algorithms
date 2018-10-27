@@ -2,7 +2,7 @@
  **File: MergeSort in project OKA2
  **At 18:51  27.10.2018
  **/
-package Sorting.`Merge Sort`.Kotlin
+package Sorting.MergeSort.Kotlin
 
 
 
